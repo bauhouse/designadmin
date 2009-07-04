@@ -4,3 +4,6 @@
 .htaccess
 symphony/.htaccess
 workspace/
+manifest
+install-log.txt
+
