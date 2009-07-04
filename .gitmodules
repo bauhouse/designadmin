@@ -1,6 +1,6 @@
 [submodule "extensions/export_ensemble"]
 	path = extensions/export_ensemble
-	url = git://github.com/pointybeard/export_ensemble.git
+	url = git://github.com/bauhouse/export_ensemble.git
 [submodule "extensions/markdown"]
 	path = extensions/markdown
 	url = git://github.com/pointybeard/markdown.git
