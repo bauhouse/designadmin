@@ -19,3 +19,33 @@
 [submodule "extensions/debugdevkit"]
 	path = extensions/debugdevkit
 	url = git://github.com/symphony/debugdevkit.git
+[submodule "extensions/publishfiltering"]
+	path = extensions/publishfiltering
+	url = git://github.com/nickdunn/publishfiltering.git
+[submodule "extensions/members"]
+	path = extensions/members
+	url = git://github.com/bauhouse/members.git
+[submodule "extensions/library"]
+	path = extensions/library
+	url = git://github.com/bauhouse/library.git
+[submodule "extensions/asdc"]
+	path = extensions/asdc
+	url = git://github.com/pointybeard/asdc.git
+[submodule "extensions/entity_diagram"]
+	path = extensions/entity_diagram
+	url = git://github.com/nickdunn/entity_diagram.git
+[submodule "extensions/eventex"]
+	path = extensions/eventex
+	url = git://github.com/yourheropaul/eventex.git
+[submodule "extensions/order_entries"]
+	path = extensions/order_entries
+	url = git://github.com/nickdunn/order_entries.git
+[submodule "extensions/section_schemas"]
+	path = extensions/section_schemas
+	url = git://github.com/nickdunn/section_schemas.git
+[submodule "extensions/page_fields"]
+	path = extensions/page_fields
+	url = git://github.com/skeary/symphony-page-fields.git
+[submodule "extensions/activitylog"]
+	path = extensions/activitylog
+	url = git://github.com/rowan-lewis/activitylog.git
